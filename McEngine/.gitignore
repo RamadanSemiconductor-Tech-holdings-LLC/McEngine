@@ -4,4 +4,8 @@
 /Debug/
 /Makefile
 /McEngine.make
-
+/*.sln
+/*.vcproj
+/*.vcxproj
+/compile_commands.json
+/.cache/
