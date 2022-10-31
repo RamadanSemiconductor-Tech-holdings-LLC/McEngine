@@ -2,7 +2,7 @@
 setlocal enableextensions enabledelayedexpansion
 
 set NAME=McEngine
-set BUILD=Windows Release
+set BUILD=Release\Windows
 
 set WRK=build
 

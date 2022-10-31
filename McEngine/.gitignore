@@ -1,2 +1,7 @@
 /Windows Release/
 /Windows Debug/
+/Release/
+/Debug/
+/Makefile
+/McEngine.make
+

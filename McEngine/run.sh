@@ -1,7 +1,7 @@
 #!/bin/bash
 
 NAME="McEngine"
-BUILD="Linux Release"
+BUILD="Release/Linux"
 
 WRK="build"
 

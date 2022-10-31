@@ -48,8 +48,8 @@
 //#include "Osu.h"
 //#include "GUICoherenceMode.h"
 //#include "Asteroids.h"
-#include "FrameworkTest.h"
-
+// #include "FrameworkTest.h"
+#include APP_INCLUDE
 
 
 class EngineLoadingScreenApp : public App
@@ -333,8 +333,9 @@ void Engine::loadApp()
 
 		//m_app = new Asteroids();
 
-		m_app = new FrameworkTest();
-
+		//m_app = new FrameworkTest();
+        
+        m_app = new APP_CLASS ();
 
 
 		// start listening to the default keyboard input
